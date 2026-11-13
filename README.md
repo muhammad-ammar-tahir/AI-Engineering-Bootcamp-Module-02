@@ -112,8 +112,7 @@ two labelled charts, and includes two findings based on the data.
 
 ## GitHub repository
 
-**Repository URL:** Replace this line with your actual GitHub repository
-link.
+https://github.com/muhammad-ammar-tahir/AI-Engineering-Bootcamp-Module-02
 
 ## Author details
 
